@@ -1,0 +1,38 @@
+[
+     {
+          "Name":"China",
+          "Market Cap (US$ Billion)":"20"
+     },
+     {
+          "Name":"United States",
+          "Market Cap (US$ Billion)":"11"
+     },
+     {
+          "Name":"Japan",
+          "Market Cap (US$ Billion)":"8"
+     },
+     {
+          "Name":"United Kingdom",
+          "Market Cap (US$ Billion)":"6"
+     },
+     {
+          "Name":"Australia",
+          "Market Cap (US$ Billion)":"5"
+     },
+     {
+          "Name":"Germany",
+          "Market Cap (US$ Billion)":"4"
+     },
+     {
+          "Name":"Spain",
+          "Market Cap (US$ Billion)":"3"
+     },
+     {
+          "Name":"Switzerland",
+          "Market Cap (US$ Billion)":"2"
+     },
+     {
+          "Name":"India",
+          "Market Cap (US$ Billion)":"1"
+     }
+]
