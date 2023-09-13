@@ -15,7 +15,6 @@ data = pd.DataFrame(columns=["Name", "Market Cap (US$ Billion)"])
 
 for row in soup.find_all('tbody')[2].find_all('tr'):
     col = row.find_all('td')
-    # #Write your code here
     if len(col) == 3:
         Bank_Name = col[1].text.strip()
         Market_Cap = col[2].text.strip()
